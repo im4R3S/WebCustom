@@ -70,7 +70,7 @@ section{height: 100vh !important;}
   .about-section {
     padding: 10px;
     text-align: center;
-    background-color: black;
+    background-color: #333;
     color: white;
   }
   
@@ -128,7 +128,7 @@ section{height: 100vh !important;}
   }
   
   .price .priceHeader {
-    background-color: #111;
+    background-color: #333;
     color: white;
     font-size: 25px;
   }
@@ -180,3 +180,7 @@ section{height: 100vh !important;}
 .marginzero{
   margin: 0 !important;
 }
+
+footer{background-color: #333; height: 45vh;}
+
+.footerinfos{width: 400px; height: 255px; margin: auto; background-color: #333; color: white;}
