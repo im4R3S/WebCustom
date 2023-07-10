@@ -34,7 +34,7 @@ li {
 	margin-bottom: 10px;
 }
 
-footer{background-color: #333; color: #fff; height: 15vh; left: 0; bottom: 0; width: 100%;text-align: center;}
+footer{background-color: #333; height: 10vh; left: 0; bottom: 0; width: 100%; color: #fff; text-align: center;}
 
 /* UTILS */
 section{height: 100vh !important;}
