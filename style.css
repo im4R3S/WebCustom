@@ -181,6 +181,6 @@ section{height: 100vh !important;}
   margin: 0 !important;
 }
 
-footer{background-color: #333; height: 45vh; position: fixed; left: 0; bottom: 0; width: 100%;}
+footer{background-color: #333; height: 45vh; left: 0; bottom: 0; width: 100%;}
 
 .footerinfos{width: 400px; height: 255px; margin: auto; background-color: #333; color: white;}
